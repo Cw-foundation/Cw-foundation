@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ekctiandro
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Projects in Nodejs
+- 🌱 I’m currently learning Java (Card / Micro / Jakarta EE)
+- 💞️ I’m looking to collaborate on Projects in Nodejs / UI-UX DESIGN
 - 📫 ekctiandrog@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
